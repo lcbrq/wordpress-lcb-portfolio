@@ -1,0 +1,38 @@
+.portfolio-box a{
+    text-decoration: none!important;
+}
+
+.portfolio-box{
+    background: #FFF none repeat scroll 0% 0%;
+    border: 1px solid #E0E0E0;
+    padding: 8px 7px;
+    margin-bottom: 10px;
+    float: left;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.portfolio .column1{
+    width: 100%;
+}
+
+.portfolio .column2{
+    width: 45%;
+    display: inline;
+    float: left;
+    margin-right: 15px;
+}
+
+.portfolio .column3{
+    width: 30%;
+    display: inline; 
+    float: left;
+    margin-right: 15px;
+}
+
+.portfolio .column4{
+    width: 20%;
+    display: inline;
+    float: left;
+    margin-right: 15px;
+}

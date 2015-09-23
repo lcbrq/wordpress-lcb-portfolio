@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LCB-portfolio\n"
+"POT-Creation-Date: 2015-09-23 23:26+0200\n"
+"PO-Revision-Date: 2015-09-23 23:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: LeftCurlyBracket <hello@leftcurlybracket.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: lcb-portfolio.php\n"
+"X-Poedit-SearchPath-1: portfolio-options.php\n"
+"X-Poedit-SearchPath-2: shortcode.php\n"
+
+#: lcb-portfolio.php:31 lcb-portfolio.php:32
+msgid "Portfolio"
+msgstr ""
+
+#: lcb-portfolio.php:33
+msgid "Add new"
+msgstr ""
+
+#: portfolio-options.php:21
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: portfolio-options.php:24
+msgid "Portfolio Display Settings"
+msgstr ""
+
+#: portfolio-options.php:30
+msgid "Number of column"
+msgstr ""
+
+#: portfolio-options.php:33
+msgid "column"
+msgstr ""
+
+#: portfolio-options.php:34 portfolio-options.php:35 portfolio-options.php:36
+msgid "columns"
+msgstr ""
