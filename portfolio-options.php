@@ -6,10 +6,10 @@
 if ( is_admin() )
 {
     add_action( 'admin_menu', 'lcb_portfolio_menu' );
-    add_action( 'admin_init', 'register_lcb_portfolio_settings' );
+    add_action( 'admin_init', 'lcb_portfolio_register_settings' );
 }
 
-function register_lcb_portfolio_settings() 
+function lcb_portfolio_register_settings() 
 {
     register_setting( 'lcb-portfolio-option', 'column_number' );
 }

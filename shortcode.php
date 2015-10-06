@@ -1,6 +1,6 @@
 <?php
 
-function display_portfolio()
+function lcb_portfolio_display()
 {
     $return_string = '<div class="portfolio">';
     query_posts(array('post_type' => 'portfolio', 'orderby' => 'date', 'order' => 'DESC'));
@@ -30,4 +30,4 @@ function display_portfolio()
    wp_reset_query();
    return $return_string;
     }
-add_shortcode( 'portfolio', 'display_portfolio' );
+add_shortcode( 'portfolio', 'lcb_portfolio_display' );

@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: LCB-portfolio\n"
-"POT-Creation-Date: 2015-09-23 23:26+0200\n"
+"POT-Creation-Date: 2015-10-07 00:51+0200\n"
 "PO-Revision-Date: 2015-09-23 23:27+0200\n"
 "Last-Translator: \n"
 "Language-Team: LeftCurlyBracket <hello@leftcurlybracket.com>\n"
@@ -25,22 +26,38 @@ msgstr ""
 msgid "Add new"
 msgstr ""
 
-#: portfolio-options.php:21
+#: lcb-portfolio.php:34
+msgid "Add new portfolio"
+msgstr ""
+
+#: lcb-portfolio.php:49
+msgid "Potfolio url"
+msgstr ""
+
+#: lcb-portfolio.php:55
+msgid "Enter an external url"
+msgstr ""
+
+#: lcb-portfolio.php:56
+msgid "If this field will be empty, portfolio will linked to standard wordpress page."
+msgstr ""
+
+#: portfolio-options.php:25
 msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
-#: portfolio-options.php:24
+#: portfolio-options.php:28
 msgid "Portfolio Display Settings"
 msgstr ""
 
-#: portfolio-options.php:30
+#: portfolio-options.php:34
 msgid "Number of column"
 msgstr ""
 
-#: portfolio-options.php:33
+#: portfolio-options.php:37
 msgid "column"
 msgstr ""
 
-#: portfolio-options.php:34 portfolio-options.php:35 portfolio-options.php:36
+#: portfolio-options.php:38 portfolio-options.php:39 portfolio-options.php:40
 msgid "columns"
 msgstr ""
