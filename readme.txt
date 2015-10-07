@@ -1,7 +1,9 @@
 === LCB portfolio ===
 Tags: portfolio, image with description, external url
+Contributors: Silpion, Antonelka
 Requires at least: 4.2
 Tested up to: 4.3.1
+Stable tag: 1.1
 License: MIT
 
 Displays portfolio including custom image with short description.
