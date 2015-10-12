@@ -2,7 +2,7 @@
 /*
 Plugin Name: LCB Portfolio
 Description: Displays image with short description
-Version: 1.1.1
+Version: 1.1.2
 Author: LeftCurlyBracket
 Author URI: http://leftcurlybracket.com
 License: MIT
